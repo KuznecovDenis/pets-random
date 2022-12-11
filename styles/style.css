@@ -140,8 +140,9 @@ main {
 }
 
 .generator__img img {
+  min-width: 100%;
   max-width: 100%;
-  max-height: auto;
+  height: auto;
 }
 
 .footer {
